@@ -7,3 +7,5 @@ en-Us
 <br/>
 Assignment of the second week of the course, - Applied representation of graphs, graphs and data representation in Python (Coursera) - made by University of Michigan, where we have plotting the period of 2004-2015 of the city of Ann Arbor, Michigan. It may to do chart with lines for the period 2005-2014 with each record of this period for the higher and lower temperatures for each day of the year and after to create a scatter for the recordings of temperatures that were broken in the year 2015.
 
+<br/>
+<img src="download.png"></img>
